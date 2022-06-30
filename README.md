@@ -1,4 +1,3 @@
-
 # Book/PDF/Image Reader  
  
 This Project built in Python. This Book Reader can read your uploaded PDFs. Apart from this it can convert your uploaded image into mp3 audio file.
